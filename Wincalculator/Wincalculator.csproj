@@ -88,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HTMLPage2.html" />
+    <Content Include="niiii.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
